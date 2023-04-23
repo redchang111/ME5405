@@ -1,8 +1,10 @@
 # ME5405
-NUS ME5405 Module - Machine Vision
+**NUS ME5405 Module - Machine Vision**
+
 Images 1 and 2 are 64x64, 32 level images. These images are shown as coded arrays that contains an alphanumeric character for each pixel. The range of these characters is 0-9 and A-V, which corresponds to 32 levels of gray.
+
 Image 1: Chromosomes (chromo.txt)
-For Chromosome Image1 (chromo.txt), the main function file is chromo.m
+For Chromosome Image1 ```(chromo.txt)```, the main function file is chromo.m
 
 ```javascript
 function greeting(name) {
@@ -10,7 +12,7 @@ function greeting(name) {
 }
 
 greeting('ChatGPT');
-
+```
 Perform the following tasks:
 
 Display the original image on screen.
